@@ -57,7 +57,7 @@ def footer(inp_views):
         "Page Visits - ", str(inp_views),
         br(),
         "Created by ",
-        link("https://avneesh-personal-web-session.000webhostapp.com", "Avneesh Verma"),
+        link("https://avneesh2321.netlify.app/", "Avneesh Verma"),
         "     ",
         
     ]
