@@ -170,7 +170,7 @@ else:
 # }
 # </style>
 # <div class="footer">
-# <p>Developed with ❤ by <a style='display: block; text-align: center;' href="https://avneesh-personal-web-session.000webhostapp.com" target="_blank">Avneesh Verma</a></p>
+# <p>Developed with ❤ by <a style='display: block; text-align: center;' href="https://avneesh2321.netlify.app/" target="_blank">Avneesh Verma</a></p>
 # </div>
 # """
 # st.markdown(footer,unsafe_allow_html=True)
